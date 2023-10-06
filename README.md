@@ -9,8 +9,12 @@
   I major in data science and I developed strong research interest in
   <em><strong>human-centered machine learning</strong></em> and <em><strong>cooperative artificial intelligence</strong></em>.
   I am seeking insights on novel technologies that enhance human experience and minds.
+</p>
+</font>
+<font size="+1">
 <p style="font-family:verdana">
   Recently, I am on an exchange study in <em><strong>École Polytechnique Fédérale de Lausanne</strong></em>, Switzerland.
+</p>
 </font>
 
 <picture>
