@@ -5,14 +5,14 @@
 </div>
 
 
-<p style="font-family:verdana; font-size:15px">
+<p style="font-family:verdana; font-size:20px">
   An undergraduate student in <em><strong>The Hong Kong University of Science and Technology</strong></em>.
   I major in data science and I developed strong research interest in
   <em><strong>machine cognition</strong></em> and <em><strong>creativity</strong></em>.
   I am seeking insights on novel technologies that enhance human experience and minds.
 </p>
 
-<p style="font-family:verdana; font-size:15px">
+<p style="font-family:verdana; font-size:20px">
   Recently, I am on an exchange study in <em><strong>École Polytechnique Fédérale de Lausanne</strong></em>, Switzerland.
 </p>
 
